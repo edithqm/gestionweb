@@ -1,0 +1,43 @@
+.form{
+    position:relative;
+    width:500px;
+    height: 700px; 
+    padding-left:20px;
+    scroll-padding-top:15px ;
+    background-color:#e5dfcd;
+    margin:auto;
+}
+input[type="text"],[type="email"]{
+    width:470 px;
+    height:35 px;
+    font: 14 px normal normal uppercase helvatica, arial,serif;
+
+}
+textarea{
+    width: 470px;
+    height: 110px;
+    font: 14 px normal normal uppercase helvatica, arial,serif;
+}
+input[type=submit]{
+    position:relative;
+    width:150 px
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 150px;
+    border: 0px;
+    background-color: #32a43e;
+    font: 14 px normal normal uppercase helvatica, arial,serif;
+
+}
+
+p{
+    text.text-shadow:0 0 #ffff;
+    
+}
+label{
+    margin:11px  20px 0 0;
+    font-size: 16px;
+    color:#b3aba1;
+    text-transform: uppercase;
+}
+   
